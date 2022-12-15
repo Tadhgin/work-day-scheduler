@@ -25,8 +25,11 @@ THEN the saved events persist
 ````
 
 ## Screenshot
+![Screenshot (19)](https://user-images.githubusercontent.com/117637052/207862429-19fac633-ef2e-42f9-9c06-24e7458f3fc4.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/117637052/207862462-6d75be03-ee0f-4022-a645-4a6cf3b0050b.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/117637052/207862478-5e35141e-0c46-47c3-bdb5-5e03dd60dfbf.png)
+
 
 
 ## Deploy
 https://tadhgin.github.io/work-day-scheduler/
-Please use incognito mode on your browser, as the app accesses your local storage. 
