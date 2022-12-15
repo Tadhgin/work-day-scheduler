@@ -25,6 +25,8 @@ THEN the saved events persist
 ````
 
 ## Screenshot
-(./Assets/05-third-party-apis-homework-demo.gif)
+
 
 ## Deploy
+https://tadhgin.github.io/work-day-scheduler/
+Please use incognito mode on your browser, as the app accesses your local storage. 
